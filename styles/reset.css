@@ -13,11 +13,6 @@ html,
 body {
   height: 100%;
 }
-
-.wrapper {
-  min-height: 100%;
-}
-
 /* main {
   flex: 1 1 auto;
 } */
