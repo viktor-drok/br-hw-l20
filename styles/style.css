@@ -26,10 +26,6 @@ img {
   background: none;
 }
 
-.blur::before {
-  content: url(../img/backflip/heart.svg);
-}
-
 .blur::before,
 .blur::after {
   display: grid;
