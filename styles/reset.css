@@ -13,16 +13,9 @@ html,
 body {
   height: 100%;
 }
-
-.wrapper {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
-}
-
-main {
+/* main {
   flex: 1 1 auto;
-}
+} */
 
 a {
   text-decoration: none;
@@ -147,7 +140,7 @@ html {
  */
 
 a:focus {
-  outline: thin dotted;
+  outline: none;
 }
 
 /**
