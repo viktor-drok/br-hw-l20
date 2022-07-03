@@ -113,6 +113,11 @@ img {
     &__img {
             position: relative;
             padding: 0 0 48% 0;
+            transition: all 0.5s;
+            -webkit-transition: all 0.5s;
+            -moz-transition: all 0.5s;
+            -ms-transition: all 0.5s;
+            -o-transition: all 0.5s;
 
         @media (max-width: 768px) {
             &_1 {
@@ -259,7 +264,12 @@ img {
 
     &__img {
             position: relative;
-            padding: 0 0 48% 0;        
+            padding: 0 0 48% 0;    
+            transition: all 0.5s;
+            -webkit-transition: all 0.5s;
+            -moz-transition: all 0.5s;
+            -ms-transition: all 0.5s;
+            -o-transition: all 0.5s;
             // .still__img_big
         &_02 {
             grid-column: 2 / 4;

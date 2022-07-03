@@ -39,6 +39,11 @@ img {
 .architectural__img {
   position: relative;
   padding: 0 0 48% 0;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
 }
 @media (max-width: 768px) {
   .architectural__img_1 {
@@ -171,6 +176,11 @@ img {
 .still__img {
   position: relative;
   padding: 0 0 48% 0;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
 }
 .still__img_02 {
   grid-column: 2/4;
